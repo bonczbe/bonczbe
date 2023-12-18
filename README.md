@@ -41,8 +41,11 @@ I'm also proud to be a co-founder of SB-Team! 🎉
 <div align="center">
 
 Embark on my GitHub Streak journey, where I weave the fabric of my coding odyssey.
+<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=bonczbe&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 Dive into the multiverse of my code with the Top Languages I command.
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonczbe&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>

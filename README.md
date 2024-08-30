@@ -1,12 +1,10 @@
 # 👋 Hey there, I'm Bence!
 
-Welcome to my coding universe, where lines of code transform into digital wonders. I'm not just a Web & Software Developer; I'm a Computer Scientist exploring the realms of knowledge at both BSc and MSc levels at ELTE. 🚀
-
-I'm also proud to be a co-founder of SB-Team! 🎉
+Welcome to my coding universe, where lines of code transform into digital wonders. I'm not just a Web & Software Developer; I'm a Computer Scientist exploring the realms of knowledge at both BSc level at ELTE. 🚀
 
 📬 **Let's connect!**
 <br/>
-[![Linkedin Badge](https://img.shields.io/badge/-bonczbe-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boncz-bence-7a41a6222)  [![SB-Team Badge](https://img.shields.io/badge/-SB--Team-FF8000?style=for-the-badge)](https://sb-team.hu/)  [![Email Badge](https://img.shields.io/badge/-bence%40sb--team.hu-FF4088?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bence@sb-team.hu)  [![Email Badge](https://img.shields.io/badge/-bonczbe%40gmail.com-FF4088?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bonczbe@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-bonczbe-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boncz-bence-7a41a6222)  [![Email Badge](https://img.shields.io/badge/-bonczbe%40gmail.com-FF4088?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bonczbe@gmail.com)
 
 ## 🛠️ Languages and Tools I Craft With
 <p align="left">

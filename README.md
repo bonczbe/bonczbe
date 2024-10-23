@@ -36,7 +36,8 @@ Welcome to my coding universe, where lines of code transform into digital wonder
 
 
 ## 📂 Check out my repositories
-[![GitHub Badge](https://img.shields.io/badge/-Check%20out%20my%20repositories-lightgrey?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/bonczbe?tab=repositories)
+
+[![GitHub Badge](https://img.shields.io/badge/-Check%20out%20my%20repositories-4C1F1F?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/bonczbe?tab=repositories)
 
 ## 🔥 Stats that Speak Volumes
 
